@@ -10,7 +10,7 @@ Una vez ejecutado el "Execute.sh", se te preguntará la frecuencia de los ejes. 
 
 ![Ejemplo de terminal](/Screenshots/TerminalScreenshot2.png?raw=true "Terminal Execute")
 
-![Ejemplo de salida](/GIFs/PocosPuntosConLineas.gif?raw=true "Terminal Execute")
+![Ejemplo de salida](/GIFs/Ejemplos/PocosPuntosConLineas.gif)
 
 Al cerrar el gif, la terminal preguntará si quieres guardarlo, a lo que puedes responder "s" (si) o "n" (no). Una vez guardado puedes encontrarlo en la carpeta de GIFs con el nombre de L-n-m-p.gif o S-n-m-p.gif, donde L o S dicen si es con o sin líneas, n la frecuencia 1, m la frecuencia 2 y p la cantidad de puntos.
 
