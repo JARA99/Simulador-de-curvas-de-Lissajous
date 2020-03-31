@@ -15,3 +15,12 @@ Una vez ejecutado el "Execute.sh", se te preguntará la frecuencia de los ejes. 
 Al cerrar el gif, la terminal preguntará si quieres guardarlo, a lo que puedes responder "s" (si) o "n" (no). Una vez guardado puedes encontrarlo en la carpeta de GIFs con el nombre de L-n-m-p.gif o S-n-m-p.gif, donde L o S dicen si es con o sin líneas, n la frecuencia 1, m la frecuencia 2 y p la cantidad de puntos.
 
 ![Ejemplo de terminal](/Screenshots/TerminalScreenshot3.png?raw=true "Terminal Execute")
+
+
+#Dependencias
+
+Si presenta algun error, es posible que no tengas instaladas todas las dependencias, en una terminal corre el siguiente comando:
+
+'''python
+sudo pip install math, decimal, tqdm, time, os, subprocess
+'''
