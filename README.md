@@ -17,10 +17,10 @@ Al cerrar el gif, la terminal preguntará si quieres guardarlo, a lo que puedes 
 ![Ejemplo de terminal](/Screenshots/TerminalScreenshot3.png?raw=true "Terminal Execute")
 
 
-#Dependencias
+## Dependencias ##
 
 Si presenta algun error, es posible que no tengas instaladas todas las dependencias, en una terminal corre el siguiente comando:
 
-'''python
+```python
 sudo pip install math, decimal, tqdm, time, os, subprocess
-'''
+```
